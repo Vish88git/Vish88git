@@ -1,6 +1,6 @@
-# Vishwas H S — Automotive Product Leader | SDV | ePowertrain | AUTOSAR
+# Vishwas H S — Automotive Product Leader | SDV | ePowertrain | AUTOSAR | Telematics | Fleet management | EV programs
 
-15+ years in automotive hardware delivery → transitioning into Software Defined Vehicle product and program management.
+15 years delivering connected vehicle and EV programs for JLR and Stellantis — now building the product and telematics layer.
 
 ## 🚗 Domain Expertise
 
@@ -12,7 +12,7 @@
 
 ### Project 7 — Vehicle Telematics API ⭐
 
-Production-grade REST API for connected vehicle telemetry, fault management, and notifications.
+A production-grade telematics API that ingests vehicle telemetry, fault codes, and diagnostics — designed to replicate the data backbone behind connected fleet management platforms. REST API for connected vehicle telemetry, fault management, and notifications.
 
 - **Live API + Swagger Docs:** https://vehicle-telematics-api-production-cc3b.up.railway.app/api-docs
 - **Stack:** Node.js, Express, PostgreSQL, Docker, Kubernetes, GitHub Actions
@@ -21,7 +21,7 @@ Production-grade REST API for connected vehicle telemetry, fault management, and
 
 ### Project 6 — Vehicle Health Monitor V2
 
-OBD-II diagnostics dashboard connected to live Vehicle Telematics API.
+A production-grade telematics API that ingests vehicle telemetry, fault codes, and diagnostics — designed to replicate the data backbone behind connected fleet management platforms. OBD-II diagnostics dashboard connected to live Vehicle Telematics API.
 
 - **Live App:** https://vehicle-health-monitor-v2.vercel.app
 - **Stack:** HTML, CSS, JS, Vercel serverless, Railway API
