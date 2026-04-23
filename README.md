@@ -19,6 +19,11 @@ A production-grade telematics API that ingests vehicle telemetry, fault codes, a
 - **Architecture:** Microservices with API Gateway, rate limiting, auth middleware
 - **GitHub:** https://github.com/Vish88git/vehicle-telematics-api
 
+- Use case:
+Designed for fleet operators to monitor vehicle health, track faults, and receive alerts for maintenance and anomalies
+
+Vehicle / Simulator → API Gateway → Telemetry Service → Database → Notification Service → Dashboard
+
 ### Project 6 — Vehicle Health Monitor V2
 
  OBD-II diagnostics dashboard connected to live Vehicle Telematics API.
