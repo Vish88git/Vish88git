@@ -21,7 +21,7 @@ A production-grade telematics API that ingests vehicle telemetry, fault codes, a
 
 ### Project 6 — Vehicle Health Monitor V2
 
-A production-grade telematics API that ingests vehicle telemetry, fault codes, and diagnostics — designed to replicate the data backbone behind connected fleet management platforms. OBD-II diagnostics dashboard connected to live Vehicle Telematics API.
+ OBD-II diagnostics dashboard connected to live Vehicle Telematics API.
 
 - **Live App:** https://vehicle-health-monitor-v2.vercel.app
 - **Stack:** HTML, CSS, JS, Vercel serverless, Railway API
