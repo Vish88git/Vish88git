@@ -1,4 +1,4 @@
-# Vishwas H S — Automotive Product Leader | SDV | ePowertrain | AUTOSAR | Telematics | Fleet management | EV programs
+# Vishwas H S — Automotive & Aerospace Product Leader | SDV | ePowertrain | AUTOSAR | Telematics | Fleet management | EV programs
 
 15 years delivering connected vehicle and EV programs for JLR and Stellantis — now building the product and telematics layer.
 
